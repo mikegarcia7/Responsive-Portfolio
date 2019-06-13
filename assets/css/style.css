@@ -105,11 +105,11 @@ a{
 }
 
 .hangman {
-    background-image: url("../images/1ipad.jpg");
+    background-image: url("../images/rock.png");
     background-size: cover;
 }
 .rpg-game {
-    background-image: url("../images/2turntable.jpg");
+    background-image: url("../images/mario.jpeg");
     background-size: cover;
 }
 .trivia-game {
