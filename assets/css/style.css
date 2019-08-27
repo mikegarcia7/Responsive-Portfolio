@@ -129,6 +129,11 @@ a {
 	background-size: cover;
 }
 
+.faze {
+	background-image: url("../images/blackbackground.jpg");
+	background-size: cover;
+}
+
 .liri {
 	background-image: url("../images/redrocksconcert.jpg");
 	background-size: cover;
